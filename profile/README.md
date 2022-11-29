@@ -1,4 +1,4 @@
-![AtendiSaude](assets/logo-default-196x47.png "logo da AtendiSaude")
+![AtendiSaude](https://atendisaude.com/images/logo-default-196x47.png "logo da AtendiSaude")
 ===
 
 ## A empresa
