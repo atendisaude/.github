@@ -1,4 +1,4 @@
-![Alt text](./assets/logo-default-196x47.png "a title")
+![AtendiSaude](assets/logo-default-196x47.png "logo da AtendiSaude")
 ===
 
 ## A empresa
