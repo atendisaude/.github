@@ -1,4 +1,4 @@
-![AtendiSaude](https://atendisaude.com/images/logo-default-196x47.png "logo da AtendiSaude")
+![AtendiSaude](https://raw.githubusercontent.com/atendisaude/.github/main/profile/assets/logo-default-196x47.png "logo da AtendiSaude")
 ===
 
 ## A empresa
